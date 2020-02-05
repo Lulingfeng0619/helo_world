@@ -1,2 +1,7 @@
-# helo_world
-第一个存储库
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+  
+  return 0;
+}
